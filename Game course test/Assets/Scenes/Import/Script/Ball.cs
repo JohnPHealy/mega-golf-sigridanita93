@@ -53,7 +53,7 @@ public class Ball : MonoBehaviour
             startPos = endPos = Vector3.zero; 
         }
 
-       if (myRB.velocity.magnitude < minSpeed)
+       if (myRB.IsSleeping())
         {
             canShoot = true;
         }

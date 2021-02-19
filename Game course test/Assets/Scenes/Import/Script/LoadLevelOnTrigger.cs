@@ -14,5 +14,6 @@ public class LoadLevelOnTrigger : MonoBehaviour
     private void OnCollisionEnter(Collision other)
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+
     }
 }

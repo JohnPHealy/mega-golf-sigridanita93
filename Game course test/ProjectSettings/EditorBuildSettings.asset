@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Menu.unity
+    path: Assets/Scenes/Menu.unity
     guid: 37cb93b823de82e4ab6a20a5b5f27a31
   - enabled: 1
     path: Assets/Scenes/Level 1.unity
@@ -15,6 +15,21 @@ EditorBuildSettings:
     path: Assets/Scenes/Level 2.unity
     guid: fab19a9dadfd616428872a8b976efce5
   - enabled: 1
-    path: Assets/Scenes/Mini Golf.unity
+    path: Assets/Scenes/Level 3.unity
     guid: d439ecf3a0053d141bbd9fcfc15a8de1
+  - enabled: 1
+    path: Assets/Scenes/End Scene.unity
+    guid: 4a5795de7f9931049b954c464c36262d
+  - enabled: 1
+    path: Assets/Scenes/No quitting.unity
+    guid: 364b6ff0dda9d85498bad1dbdfcf92fc
+  - enabled: 1
+    path: Assets/Scenes/Level 1 (again).unity
+    guid: d55ee7afb58ece84dade38bbcba72fc9
+  - enabled: 1
+    path: Assets/Scenes/Level 2 (again).unity
+    guid: 9764a9cc7ed87844194afa831c9949ab
+  - enabled: 1
+    path: Assets/Scenes/Level 3 (again).unity
+    guid: 22c06188396bdf9429b8f362466175c7
   m_configObjects: {}
