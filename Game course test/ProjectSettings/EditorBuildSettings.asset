@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: 37cb93b823de82e4ab6a20a5b5f27a31
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: dfab9ab47dba60649840b3c6bfec1540
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: fab19a9dadfd616428872a8b976efce5
+  - enabled: 1
+    path: Assets/Scenes/Mini Golf.unity
+    guid: d439ecf3a0053d141bbd9fcfc15a8de1
+  m_configObjects: {}
